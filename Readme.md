@@ -46,3 +46,8 @@ SQL Analytics
        ↓
 Matplotlib / Seaborn / Streamlit
 ```
+## Architecture Diagram
+
+<p align="center">
+  <img src="project_architecture.png" width="1000">
+</p>
